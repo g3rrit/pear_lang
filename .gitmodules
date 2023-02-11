@@ -1,0 +1,6 @@
+[submodule "external/lemon"]
+	path = external/lemon
+	url = git@github.com:g3rrit/lemon.git
+[submodule "external/re2c"]
+	path = external/re2c
+	url = git@github.com:g3rrit/re2c.git
